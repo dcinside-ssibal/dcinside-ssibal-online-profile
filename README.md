@@ -25,7 +25,7 @@ git clone https://github.com/dcinside-ssibal/dcinside-ssibal-online-profile.git
 2. 프로젝트 디렉토리로 이동합니다:
 
 ```bash
-cd dcinside_ssibal_online_profile
+cd dcinside-ssibal-online-profile
 ```
 
 3. GitHub Pages를 통해 사이트를 확인할 수 있습니다.
