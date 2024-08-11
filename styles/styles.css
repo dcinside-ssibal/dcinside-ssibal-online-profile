@@ -173,6 +173,24 @@ a.item:hover {
     color: white;
 }
 
+.arcalive {
+    background-color: #3d414d;
+    color: white;
+}
+
+.arcalive .username {
+    color: white;
+}
+
+.chess {
+    background-color: #2b2a28;
+    color: white;
+}
+
+.chess .username {
+    color: white;
+}
+
 /* Media Query for PC */
 @media (min-width: 768px) {
     .profile {
